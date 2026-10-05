@@ -1,0 +1,1105 @@
+{
+  "project": {
+    "type": "manga_recap",
+    "language": "hi",
+    "narration_language": "hi",
+    "script_format": "Devanagari"
+  },
+  "story": {
+    "summary": "In a high school classroom, the usually aggressive and loud student Yongbeom Choi is uncharacteristically quiet, causing fear and confusion among his classmates. A hoodie-wearing student tries to provoke him, speculating wildly about the reason for his silence—ranging from sickness to circumcision, drugs, or YouTube image management. Yongbeom finally reacts by violently attacking the hoodie student and smiling terrifyingly. He then approaches the quiet, studious model student and asks her 'How do you study?' while the entire classroom watches in horror.",
+    "characters": [
+      {
+        "name": "Yongbeom Choi",
+        "description": "Red-haired aggressive student, usually loud, currently quiet and intimidating"
+      },
+      {
+        "name": "Hoodie Guy",
+        "description": "Student who provokes Yongbeom, gets beaten up"
+      },
+      {
+        "name": "Model Student",
+        "description": "Girl with glasses, innocent, top student, targeted by Yongbeom"
+      },
+      {
+        "name": "Teachers",
+        "description": "Two men in suits, shocked by Yongbeom's behavior"
+      },
+      {
+        "name": "Other Students",
+        "description": "Classmates observing and whispering in fear"
+      }
+    ],
+    "locations": [
+      "Classroom",
+      "PA System Room"
+    ]
+  },
+  "pages": [
+    {
+      "page_id": "p1",
+      "width": 800,
+      "height": 2800,
+      "panels": [
+        {
+          "panel_id": "p1_1",
+          "bbox": [0, 0, 800, 400],
+          "order": 1,
+          "description": "Vortex Scans banner and credits"
+        },
+        {
+          "panel_id": "p1_2",
+          "bbox": [0, 400, 800, 200],
+          "order": 2,
+          "description": "READ THIS SERIES FIRST AT text banner"
+        },
+        {
+          "panel_id": "p1_3",
+          "bbox": [100, 600, 600, 400],
+          "order": 3,
+          "description": "Two students in uniforms looking to the side, concerned"
+        },
+        {
+          "panel_id": "p1_4",
+          "bbox": [300, 1000, 200, 300],
+          "order": 4,
+          "description": "Close up of back of head (black hair)"
+        },
+        {
+          "panel_id": "p1_5",
+          "bbox": [200, 1300, 400, 500],
+          "order": 5,
+          "description": "Girl with long brown hair at desk, speaking forward"
+        },
+        {
+          "panel_id": "p1_6",
+          "bbox": [100, 1900, 600, 400],
+          "order": 6,
+          "description": "Hoodie guy and red-haired boy (Yongbeom) sitting at desk"
+        }
+      ]
+    },
+    {
+      "page_id": "p2",
+      "width": 800,
+      "height": 2400,
+      "panels": [
+        {
+          "panel_id": "p2_1",
+          "bbox": [100, 0, 700, 500],
+          "order": 1,
+          "description": "Hands of model student on desk, text about Yongbeom being quiet being scarier"
+        },
+        {
+          "panel_id": "p2_2",
+          "bbox": [200, 500, 400, 600],
+          "order": 2,
+          "description": "Close up of Yongbeom's face looking surprised/concerned"
+        },
+        {
+          "panel_id": "p2_3",
+          "bbox": [50, 1100, 700, 700],
+          "order": 3,
+          "description": "Hoodie guy slamming desk, Yongbeom looking back, dialogue bubbles"
+        }
+      ]
+    },
+    {
+      "page_id": "p3",
+      "width": 800,
+      "height": 2200,
+      "panels": [
+        {
+          "panel_id": "p3_1",
+          "bbox": [50, 0, 700, 600],
+          "order": 1,
+          "description": "Hoodie guy standing and screaming aggressively"
+        },
+        {
+          "panel_id": "p3_2",
+          "bbox": [400, 600, 350, 400],
+          "order": 2,
+          "description": "Two girls whispering and laughing by window"
+        },
+        {
+          "panel_id": "p3_3",
+          "bbox": [50, 1000, 700, 800],
+          "order": 3,
+          "description": "Action scene: Yongbeom tackling hoodie guy, punching"
+        }
+      ]
+    },
+    {
+      "page_id": "p4",
+      "width": 800,
+      "height": 2600,
+      "panels": [
+        {
+          "panel_id": "p4_1",
+          "bbox": [100, 0, 600, 400],
+          "order": 1,
+          "description": "Yongbeom looking shocked, PA booth figure in background"
+        },
+        {
+          "panel_id": "p4_2",
+          "bbox": [100, 400, 600, 400],
+          "order": 2,
+          "description": "PA booth figure singing into microphone"
+        },
+        {
+          "panel_id": "p4_3",
+          "bbox": [100, 800, 600, 300],
+          "order": 3,
+          "description": "Speech bubble continuation about whole school hearing"
+        },
+        {
+          "panel_id": "p4_4",
+          "bbox": [200, 1100, 400, 300],
+          "order": 4,
+          "description": "Extreme close up of mouth shouting 'SO WHY?!'"
+        },
+        {
+          "panel_id": "p4_5",
+          "bbox": [100, 1400, 600, 400],
+          "order": 5,
+          "description": "Extreme close up of Yongbeom's angry face with sound effect"
+        },
+        {
+          "panel_id": "p4_6",
+          "bbox": [100, 1800, 600, 400],
+          "order": 6,
+          "description": "Hoodie guy being held by collar, dialogue about quietness"
+        },
+        {
+          "panel_id": "p4_7",
+          "bbox": [50, 2200, 700, 400],
+          "order": 7,
+          "description": "Wide classroom shot showing students terrified, hoodie guy on floor"
+        }
+      ]
+    },
+    {
+      "page_id": "p5",
+      "width": 800,
+      "height": 2400,
+      "panels": [
+        {
+          "panel_id": "p5_1",
+          "bbox": [100, 0, 600, 400],
+          "order": 1,
+          "description": "Hoodie guy crying, begging Yongbeom to hit him"
+        },
+        {
+          "panel_id": "p5_2",
+          "bbox": [200, 400, 400, 500],
+          "order": 2,
+          "description": "Profile of Yongbeom, dialogue about circumcision"
+        },
+        {
+          "panel_id": "p5_3",
+          "bbox": [200, 900, 400, 200],
+          "order": 3,
+          "description": "Speech bubble: OR IS HE ON DRUGS?"
+        },
+        {
+          "panel_id": "p5_4",
+          "bbox": [100, 1100, 600, 400],
+          "order": 4,
+          "description": "Hoodie guy screaming 'AH...! NO WAY...!'"
+        },
+        {
+          "panel_id": "p5_5",
+          "bbox": [200, 1500, 400, 200],
+          "order": 5,
+          "description": "Speech bubble: DID YOU START A YOUTUBE CHANNEL?"
+        },
+        {
+          "panel_id": "p5_6",
+          "bbox": [100, 1700, 600, 400],
+          "order": 6,
+          "description": "Hoodie guy looking shocked with hand gesture"
+        }
+      ]
+    },
+    {
+      "page_id": "p6",
+      "width": 800,
+      "height": 2200,
+      "panels": [
+        {
+          "panel_id": "p6_1",
+          "bbox": [100, 0, 600, 500],
+          "order": 1,
+          "description": "Hoodie guy pointing finger, accusing Yongbeom of image management"
+        },
+        {
+          "panel_id": "p6_2",
+          "bbox": [50, 500, 700, 600],
+          "order": 2,
+          "description": "Action: Yongbeom punching hoodie guy with motion lines"
+        },
+        {
+          "panel_id": "p6_3",
+          "bbox": [100, 1100, 600, 400],
+          "order": 3,
+          "description": "Hoodie guy on floor, defeated"
+        },
+        {
+          "panel_id": "p6_4",
+          "bbox": [50, 1500, 700, 600],
+          "order": 4,
+          "description": "Two teachers looking shocked, dialogue about Yongbeom smiling"
+        }
+      ]
+    },
+    {
+      "page_id": "p7",
+      "width": 800,
+      "height": 2000,
+      "panels": [
+        {
+          "panel_id": "p7_1",
+          "bbox": [100, 0, 600, 400],
+          "order": 1,
+          "description": "Yongbeom walking forward through classroom"
+        },
+        {
+          "panel_id": "p7_2",
+          "bbox": [200, 400, 400, 400],
+          "order": 2,
+          "description": "Close up of Yongbeom with red eyes, calling out"
+        },
+        {
+          "panel_id": "p7_3",
+          "bbox": [200, 800, 400, 500],
+          "order": 3,
+          "description": "Model student (girl with glasses) looking up nervously"
+        },
+        {
+          "panel_id": "p7_4",
+          "bbox": [100, 1300, 600, 400],
+          "order": 4,
+          "description": "Teachers in background panicking about model student being targeted"
+        }
+      ]
+    },
+    {
+      "page_id": "p8",
+      "width": 800,
+      "height": 1600,
+      "panels": [
+        {
+          "panel_id": "p8_1",
+          "bbox": [200, 0, 400, 400],
+          "order": 1,
+          "description": "Yongbeom with hand on neck, looking down"
+        },
+        {
+          "panel_id": "p8_2",
+          "bbox": [200, 400, 400, 300],
+          "order": 2,
+          "description": "Close up of Yongbeom asking 'HOW DO YOU STUDY?'"
+        },
+        {
+          "panel_id": "p8_3",
+          "bbox": [50, 700, 700, 500],
+          "order": 3,
+          "description": "Wide shot of entire classroom in terror, model student trembling"
+        }
+      ]
+    }
+  ],
+  "panels": [],
+  "regions": [
+    {
+      "region_id": "r1_1",
+      "panel_id": "p1_3",
+      "type": "character",
+      "name": "Students Looking",
+      "bbox": [120, 650, 500, 350],
+      "description": "Two students in uniforms looking concerned toward Yongbeom"
+    },
+    {
+      "region_id": "r1_2",
+      "panel_id": "p1_4",
+      "type": "character",
+      "name": "Back of Head",
+      "bbox": [320, 1050, 180, 250],
+      "description": "Back of a student's head, black hair"
+    },
+    {
+      "region_id": "r1_3",
+      "panel_id": "p1_5",
+      "type": "character",
+      "name": "Girl",
+      "bbox": [220, 1400, 350, 450],
+      "description": "Girl with long brown hair at desk, speaking"
+    },
+    {
+      "region_id": "r1_4",
+      "panel_id": "p1_6",
+      "type": "character",
+      "name": "Hoodie Guy and Yongbeom",
+      "bbox": [120, 1950, 550, 350],
+      "description": "Hoodie guy and red-haired Yongbeom sitting at desk"
+    },
+    {
+      "region_id": "r2_1",
+      "panel_id": "p2_1",
+      "type": "text",
+      "name": "Text Bubble",
+      "bbox": [150, 100, 600, 200],
+      "description": "Speech bubble: 'YONGBEOM CHOI BEING QUIET IS EVEN SCARIER...'"
+    },
+    {
+      "region_id": "r2_2",
+      "panel_id": "p2_2",
+      "type": "character",
+      "name": "Yongbeom Face",
+      "bbox": [250, 600, 300, 500],
+      "description": "Close up of Yongbeom's concerned face"
+    },
+    {
+      "region_id": "r2_3",
+      "panel_id": "p2_3",
+      "type": "character",
+      "name": "Hoodie Guy",
+      "bbox": [100, 1200, 300, 400],
+      "description": "Hoodie guy slamming desk, angry"
+    },
+    {
+      "region_id": "r3_1",
+      "panel_id": "p3_1",
+      "type": "character",
+      "name": "Hoodie Guy Standing",
+      "bbox": [100, 100, 600, 500],
+      "description": "Hoodie guy standing and screaming"
+    },
+    {
+      "region_id": "r3_2",
+      "panel_id": "p3_2",
+      "type": "character",
+      "name": "Girls Whispering",
+      "bbox": [450, 650, 300, 350],
+      "description": "Two girls whispering by window"
+    },
+    {
+      "region_id": "r3_3",
+      "panel_id": "p3_3",
+      "type": "action",
+      "name": "Tackle",
+      "bbox": [100, 1100, 600, 600],
+      "description": "Yongbeom tackling hoodie guy to the ground"
+    },
+    {
+      "region_id": "r4_1",
+      "panel_id": "p4_1",
+      "type": "character",
+      "name": "Yongbeom Shocked",
+      "bbox": [150, 50, 300, 300],
+      "description": "Yongbeom looking shocked, PA booth in background"
+    },
+    {
+      "region_id": "r4_2",
+      "panel_id": "p4_2",
+      "type": "object",
+      "name": "PA System",
+      "bbox": [150, 450, 300, 350],
+      "description": "Person at PA system booth with headphones"
+    },
+    {
+      "region_id": "r4_3",
+      "panel_id": "p4_4",
+      "type": "effect",
+      "name": "Shouting Mouth",
+      "bbox": [250, 1150, 300, 250],
+      "description": "Extreme close up of mouth shouting"
+    },
+    {
+      "region_id": "r4_4",
+      "panel_id": "p4_5",
+      "type": "character",
+      "name": "Yongbeom Angry",
+      "bbox": [150, 1450, 500, 350],
+      "description": "Extreme close up of Yongbeom's angry face"
+    },
+    {
+      "region_id": "r4_5",
+      "panel_id": "p4_6",
+      "type": "action",
+      "name": "Holding",
+      "bbox": [150, 1850, 500, 350],
+      "description": "Yongbeom holding hoodie guy by collar"
+    },
+    {
+      "region_id": "r4_6",
+      "panel_id": "p4_7",
+      "type": "scene",
+      "name": "Classroom Reaction",
+      "bbox": [50, 2250, 700, 350],
+      "description": "Wide shot of classroom, hoodie guy on floor, students terrified"
+    },
+    {
+      "region_id": "r5_1",
+      "panel_id": "p5_1",
+      "type": "character",
+      "name": "Hoodie Guy Crying",
+      "bbox": [150, 100, 500, 350],
+      "description": "Hoodie guy crying and pleading"
+    },
+    {
+      "region_id": "r5_2",
+      "panel_id": "p5_2",
+      "type": "character",
+      "name": "Yongbeom Profile",
+      "bbox": [250, 450, 300, 450],
+      "description": "Profile view of Yongbeom's face"
+    },
+    {
+      "region_id": "r5_3",
+      "panel_id": "p5_3",
+      "type": "text",
+      "name": "Drugs Bubble",
+      "bbox": [250, 950, 300, 150],
+      "description": "Speech bubble: OR IS HE ON DRUGS?"
+    },
+    {
+      "region_id": "r5_4",
+      "panel_id": "p5_4",
+      "type": "character",
+      "name": "Hoodie Guy No",
+      "bbox": [150, 1150, 500, 350],
+      "description": "Hoodie guy screaming denial"
+    },
+    {
+      "region_id": "r5_5",
+      "panel_id": "p5_5",
+      "type": "text",
+      "name": "YouTube Bubble",
+      "bbox": [250, 1550, 300, 150],
+      "description": "Speech bubble: DID YOU START A YOUTUBE CHANNEL?"
+    },
+    {
+      "region_id": "r5_6",
+      "panel_id": "p5_6",
+      "type": "character",
+      "name": "Hoodie Guy Shocked",
+      "bbox": [150, 1750, 500, 350],
+      "description": "Hoodie guy looking shocked with hand up"
+    },
+    {
+      "region_id": "r6_1",
+      "panel_id": "p6_1",
+      "type": "character",
+      "name": "Hoodie Guy Pointing",
+      "bbox": [150, 100, 500, 400],
+      "description": "Hoodie guy pointing finger accusingly"
+    },
+    {
+      "region_id": "r6_2",
+      "panel_id": "p6_2",
+      "type": "action",
+      "name": "Punch",
+      "bbox": [100, 550, 600, 500],
+      "description": "Yongbeom punching hoodie guy with impact effects"
+    },
+    {
+      "region_id": "r6_3",
+      "panel_id": "p6_3",
+      "type": "character",
+      "name": "Hoodie Guy Defeated",
+      "bbox": [150, 1150, 500, 350],
+      "description": "Hoodie guy lying on floor, dazed"
+    },
+    {
+      "region_id": "r6_4",
+      "panel_id": "p6_4",
+      "type": "character",
+      "name": "Teachers Shocked",
+      "bbox": [100, 1550, 600, 500],
+      "description": "Two teachers in suits looking horrified"
+    },
+    {
+      "region_id": "r7_1",
+      "panel_id": "p7_1",
+      "type": "character",
+      "name": "Yongbeom Walking",
+      "bbox": [150, 100, 500, 350],
+      "description": "Yongbeom walking forward with footsteps sound effect"
+    },
+    {
+      "region_id": "r7_2",
+      "panel_id": "p7_2",
+      "type": "character",
+      "name": "Yongbeom Calling",
+      "bbox": [250, 450, 300, 350],
+      "description": "Close up of Yongbeom calling out with intense eyes"
+    },
+    {
+      "region_id": "r7_3",
+      "panel_id": "p7_3",
+      "type": "character",
+      "name": "Model Student",
+      "bbox": [250, 850, 300, 450],
+      "description": "Girl with glasses looking up nervously"
+    },
+    {
+      "region_id": "r7_4",
+      "panel_id": "p7_4",
+      "type": "character",
+      "name": "Teachers Panicking",
+      "bbox": [150, 1350, 500, 350],
+      "description": "Teachers looking shocked in background"
+    },
+    {
+      "region_id": "r8_1",
+      "panel_id": "p8_1",
+      "type": "character",
+      "name": "Yongbeom Neck",
+      "bbox": [250, 100, 300, 350],
+      "description": "Yongbeom with hand on neck, looking down"
+    },
+    {
+      "region_id": "r8_2",
+      "panel_id": "p8_2",
+      "type": "character",
+      "name": "Yongbeom Asking",
+      "bbox": [250, 450, 300, 250],
+      "description": "Close up of Yongbeom asking 'HOW DO YOU STUDY?'"
+    },
+    {
+      "region_id": "r8_3",
+      "panel_id": "p8_3",
+      "type": "scene",
+      "name": "Terrified Classroom",
+      "bbox": [50, 750, 700, 400],
+      "description": "Wide shot showing all students and teachers in fear"
+    }
+  ],
+  "narration": {
+    "full_script": "कक्षा में सभी छात्र चुपचाप बैठे हैं, लेकिन उनकी आंखें योंगबम चोई पर हैं। वह आमतौर पर बहुत शोर मचाता है, लेकिन आज वह बिल्कुल शांत है। सबको लगता है कि शायद वह बीमार है। लेकिन एक लड़की कहती है कि बेवकूफों को जुकाम नहीं आता।\n\nयोंगबम की चुप्पी दूसरों को और भी डरावनी लग रही है। हुडी वाले लड़के को परेशानी हो रही है। वह योंगबम को बोलने के लिए कहता है, लेकिन योंगबम चुप है।\n\nहुडी वाला लड़का उठकर चिल्लाता है, योंगबम का मसला क्या है। वह कहता है कि उसने यहां तक स्कूल का पीए सिस्टम भी सेट किया है ताकि पूरी स्कूल उसकी गाने की आवाज सुन सके।\n\nअचानक योंगबम उसे पकड़ता है और मारता है। हुडी वाला लड़का रोता है कि बस मार लो, ये चुप्पी से ज्यादा डरावनी है। दूसरे छात्र सोचते हैं कि शायद वह ड्रग्स ले रहा है या यूट्यूब चैनल शुरू करने की सोच रहा है।\n\nहुडी वाला लड़का कहता है कि शायद वह अपनी इमेज मैनेज कर रहा है ताकि वह कैंसल न हो। लेकिन उसी वक्त योंगबम मुस्कुरा जाता है और उसे जोरदार मारता है।\n\nसभी को डर लगता है कि अब योंगबम पूरी तरह से बदल गया है। वह मॉडल स्टूडेंट की तरफ बढ़ता है, जो एक निर्दोष लड़की है और पढ़ाई में टॉप करती है। सभी लगता है कि अब उसके साथ कुछ गलत होने वाला है।\n\nयोंगबम उसके पास जाता है और पूछता है, 'तुम कैसे पढ़ती हो?'",
+    "beats": [
+      {
+        "beat_id": "b1",
+        "text": "कक्षा में सभी छात्र चुपचाप बैठे हैं, लेकिन उनकी आंखें योंगबम चोई पर हैं।",
+        "source_char_start": 0,
+        "source_char_end": 65,
+        "visual_match": {
+          "page_id": "p1",
+          "panel_id": "p1_3",
+          "region_id": "r1_1",
+          "confidence": 0.9,
+          "reason": "Students looking concerned at someone off-screen",
+          "focus_bbox": [120, 650, 500, 350]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 4.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "hold",
+          "start_scale": 1.0,
+          "end_scale": 1.0,
+          "focus_x": 0.5,
+          "focus_y": 0.6
+        }
+      },
+      {
+        "beat_id": "b2",
+        "text": "वह आमतौर पर बहुत शोर मचाता है, लेकिन आज वह बिल्कुल शांत है।",
+        "source_char_start": 66,
+        "source_char_end": 125,
+        "visual_match": {
+          "page_id": "p1",
+          "panel_id": "p1_4",
+          "region_id": "r1_2",
+          "confidence": 0.85,
+          "reason": "Panel showing the quiet student (back of head)",
+          "focus_bbox": [320, 1050, 180, 250]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 4.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.3,
+          "focus_x": 0.4,
+          "focus_y": 0.5
+        }
+      },
+      {
+        "beat_id": "b3",
+        "text": "सबको लगता है कि शायद वह बीमार है।",
+        "source_char_start": 126,
+        "source_char_end": 160,
+        "visual_match": {
+          "page_id": "p1",
+          "panel_id": "p1_4",
+          "region_id": "r1_2",
+          "confidence": 0.85,
+          "reason": "Dialogue bubble asking if he's sick",
+          "focus_bbox": [320, 1050, 180, 250]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "hold",
+          "start_scale": 1.0,
+          "end_scale": 1.0,
+          "focus_x": 0.4,
+          "focus_y": 0.5
+        }
+      },
+      {
+        "beat_id": "b4",
+        "text": "लेकिन एक लड़की कहती है कि बेवकूफों को जुकाम नहीं आता।",
+        "source_char_start": 161,
+        "source_char_end": 215,
+        "visual_match": {
+          "page_id": "p1",
+          "panel_id": "p1_5",
+          "region_id": "r1_3",
+          "confidence": 0.95,
+          "reason": "Girl speaking at her desk",
+          "focus_bbox": [220, 1400, 350, 450]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 4.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.2,
+          "focus_x": 0.5,
+          "focus_y": 0.6
+        }
+      },
+      {
+        "beat_id": "b5",
+        "text": "योंगबम की चुप्पी दूसरों को और भी डरावनी लग रही है।",
+        "source_char_start": 216,
+        "source_char_end": 260,
+        "visual_match": {
+          "page_id": "p2",
+          "panel_id": "p2_1",
+          "region_id": "r2_1",
+          "confidence": 0.95,
+          "reason": "Text explicitly states quiet Yongbeom is scarier",
+          "focus_bbox": [150, 100, 600, 200]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "hold",
+          "start_scale": 1.0,
+          "end_scale": 1.0,
+          "focus_x": 0.5,
+          "focus_y": 0.2
+        }
+      },
+      {
+        "beat_id": "b6",
+        "text": "हुडी वाले लड़के को परेशानी हो रही है।",
+        "source_char_start": 261,
+        "source_char_end": 295,
+        "visual_match": {
+          "page_id": "p2",
+          "panel_id": "p2_3",
+          "region_id": "r2_3",
+          "confidence": 0.9,
+          "reason": "Hoodie guy looking frustrated/angry",
+          "focus_bbox": [100, 1200, 300, 400]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 2.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.2,
+          "focus_x": 0.3,
+          "focus_y": 0.6
+        }
+      },
+      {
+        "beat_id": "b7",
+        "text": "वह योंगबम को बोलने के लिए कहता है, लेकिन योंगबम चुप है।",
+        "source_char_start": 296,
+        "source_char_end": 350,
+        "visual_match": {
+          "page_id": "p2",
+          "panel_id": "p2_3",
+          "region_id": "r2_3",
+          "confidence": 0.9,
+          "reason": "Hoodie guy demanding Yongbeom speak",
+          "focus_bbox": [100, 1200, 300, 400]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "hold",
+          "start_scale": 1.0,
+          "end_scale": 1.0,
+          "focus_x": 0.3,
+          "focus_y": 0.6
+        }
+      },
+      {
+        "beat_id": "b8",
+        "text": "हुडी वाला लड़का उठकर चिल्लाता है, योंगबम का मसला क्या है।",
+        "source_char_start": 351,
+        "source_char_end": 405,
+        "visual_match": {
+          "page_id": "p3",
+          "panel_id": "p3_1",
+          "region_id": "r3_1",
+          "confidence": 0.95,
+          "reason": "Hoodie guy standing and screaming at Yongbeom",
+          "focus_bbox": [100, 100, 600, 500]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.2,
+          "focus_x": 0.4,
+          "focus_y": 0.4
+        }
+      },
+      {
+        "beat_id": "b9",
+        "text": "वह कहता है कि उसने यहां तक स्कूल का पीए सिस्टम भी सेट किया है ताकि पूरी स्कूल उसकी गाने की आवाज सुन सके।",
+        "source_char_start": 406,
+        "source_char_end": 495,
+        "visual_match": {
+          "page_id": "p4",
+          "panel_id": "p4_1",
+          "region_id": "r4_2",
+          "confidence": 0.8,
+          "reason": "PA system mentioned, booth visible in background",
+          "focus_bbox": [150, 450, 300, 350]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 5.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "pan_right",
+          "start_scale": 1.0,
+          "end_scale": 1.1,
+          "focus_x": 0.6,
+          "focus_y": 0.5
+        }
+      },
+      {
+        "beat_id": "b10",
+        "text": "अचानक योंगबम उसे पकड़ता है और मारता है।",
+        "source_char_start": 496,
+        "source_char_end": 535,
+        "visual_match": {
+          "page_id": "p3",
+          "panel_id": "p3_3",
+          "region_id": "r3_3",
+          "confidence": 0.95,
+          "reason": "Yongbeom tackling and punching hoodie guy",
+          "focus_bbox": [100, 1100, 600, 600]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.3,
+          "focus_x": 0.5,
+          "focus_y": 0.5
+        }
+      },
+      {
+        "beat_id": "b11",
+        "text": "हुडी वाला लड़का रोता है कि बस मार लो, ये चुप्पी से ज्यादा डरावनी है।",
+        "source_char_start": 536,
+        "source_char_end": 595,
+        "visual_match": {
+          "page_id": "p5",
+          "panel_id": "p5_1",
+          "region_id": "r5_1",
+          "confidence": 0.95,
+          "reason": "Hoodie guy crying and begging to be hit",
+          "focus_bbox": [150, 100, 500, 350]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 4.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.2,
+          "focus_x": 0.4,
+          "focus_y": 0.5
+        }
+      },
+      {
+        "beat_id": "b12",
+        "text": "दूसरे छात्र सोचते हैं कि शायद वह ड्रग्स ले रहा है या यूट्यूब चैनल शुरू करने की सोच रहा है।",
+        "source_char_start": 596,
+        "source_char_end": 670,
+        "visual_match": {
+          "page_id": "p5",
+          "panel_id": "p5_2",
+          "region_id": "r5_2",
+          "confidence": 0.85,
+          "reason": "Students speculating about drugs and YouTube",
+          "focus_bbox": [250, 450, 300, 450]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 4.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.2,
+          "focus_x": 0.5,
+          "focus_y": 0.5
+        }
+      },
+      {
+        "beat_id": "b13",
+        "text": "हुडी वाला लड़का कहता है कि शायद वह अपनी इमेज मैनेज कर रहा है ताकि वह कैंसल न हो।",
+        "source_char_start": 671,
+        "source_char_end": 740,
+        "visual_match": {
+          "page_id": "p6",
+          "panel_id": "p6_1",
+          "region_id": "r6_1",
+          "confidence": 0.95,
+          "reason": "Hoodie guy accusing Yongbeom of managing his image",
+          "focus_bbox": [150, 100, 500, 400]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 4.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "hold",
+          "start_scale": 1.0,
+          "end_scale": 1.0,
+          "focus_x": 0.4,
+          "focus_y": 0.3
+        }
+      },
+      {
+        "beat_id": "b14",
+        "text": "लेकिन उसी वक्त योंगबम मुस्कुरा जाता है और उसे जोरदार मारता है।",
+        "source_char_start": 741,
+        "source_char_end": 795,
+        "visual_match": {
+          "page_id": "p6",
+          "panel_id": "p6_2",
+          "region_id": "r6_2",
+          "confidence": 0.95,
+          "reason": "Yongbeom punching hoodie guy with angry expression",
+          "focus_bbox": [100, 550, 600, 500]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.4,
+          "focus_x": 0.5,
+          "focus_y": 0.6
+        }
+      },
+      {
+        "beat_id": "b15",
+        "text": "सभी को डर लगता है कि अब योंगबम पूरी तरह से बदल गया है।",
+        "source_char_start": 796,
+        "source_char_end": 845,
+        "visual_match": {
+          "page_id": "p6",
+          "panel_id": "p6_4",
+          "region_id": "r6_4",
+          "confidence": 0.9,
+          "reason": "Teachers shocked by Yongbeom's smile and behavior",
+          "focus_bbox": [100, 1550, 600, 500]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "pan_left",
+          "start_scale": 1.0,
+          "end_scale": 1.1,
+          "focus_x": 0.3,
+          "focus_y": 0.5
+        }
+      },
+      {
+        "beat_id": "b16",
+        "text": "वह मॉडल स्टूडेंट की तरफ बढ़ता है, जो एक निर्दोष लड़की है और पढ़ाई में टॉप करती है।",
+        "source_char_start": 846,
+        "source_char_end": 910,
+        "visual_match": {
+          "page_id": "p7",
+          "panel_id": "p7_1",
+          "region_id": "r7_1",
+          "confidence": 0.9,
+          "reason": "Yongbeom walking toward the model student",
+          "focus_bbox": [150, 100, 500, 350]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 4.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "pan_right",
+          "start_scale": 1.0,
+          "end_scale": 1.1,
+          "focus_x": 0.6,
+          "focus_y": 0.5
+        }
+      },
+      {
+        "beat_id": "b17",
+        "text": "सभी लगता है कि अब उसके साथ कुछ गलत होने वाला है।",
+        "source_char_start": 911,
+        "source_char_end": 950,
+        "visual_match": {
+          "page_id": "p7",
+          "panel_id": "p7_4",
+          "region_id": "r7_4",
+          "confidence": 0.9,
+          "reason": "Teachers panicking about the model student being targeted",
+          "focus_bbox": [150, 1350, 500, 350]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.0,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.2,
+          "focus_x": 0.4,
+          "focus_y": 0.6
+        }
+      },
+      {
+        "beat_id": "b18",
+        "text": "योंगबम उसके पास जाता है और पूछता है, 'तुम कैसे पढ़ती हो?'",
+        "source_char_start": 951,
+        "source_char_end": 1010,
+        "visual_match": {
+          "page_id": "p8",
+          "panel_id": "p8_2",
+          "region_id": "r8_2",
+          "confidence": 0.95,
+          "reason": "Yongbeom asking the model student how she studies",
+          "focus_bbox": [250, 450, 300, 250]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 4.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_in",
+          "start_scale": 1.0,
+          "end_scale": 1.3,
+          "focus_x": 0.5,
+          "focus_y": 0.4
+        }
+      },
+      {
+        "beat_id": "b19",
+        "text": "पूरी कक्षा उसकी आंखों में डर से भर जाती है।",
+        "source_char_start": 1011,
+        "source_char_end": 1050,
+        "visual_match": {
+          "page_id": "p8",
+          "panel_id": "p8_3",
+          "region_id": "r8_3",
+          "confidence": 0.95,
+          "reason": "Final wide shot showing entire classroom in terror",
+          "focus_bbox": [50, 750, 700, 400]
+        },
+        "timing": {
+          "start": null,
+          "end": null,
+          "estimated_duration": 3.5,
+          "status": "pending_tts"
+        },
+        "camera": {
+          "motion": "zoom_out",
+          "start_scale": 1.2,
+          "end_scale": 1.0,
+          "focus_x": 0.5,
+          "focus_y": 0.5
+        }
+      }
+    ]
+  },
+  "timeline": [],
+  "global_notes": [
+    "This is a webtoon-style manga with vertical panel layout.",
+    "Yongbeom Choi is the main character with red hair, known for being aggressive.",
+    "The hoodie-wearing student serves as the provocateur and victim.",
+    "The model student represents innocence and academic excellence.",
+    "The story uses humor through absurd theories about Yongbeom's behavior (circumcision, drugs, YouTube).",
+    "Tone shifts from uneasy tension to violent comedy to horror."
+  ]
+}
